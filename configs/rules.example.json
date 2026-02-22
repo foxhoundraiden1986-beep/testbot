@@ -1,0 +1,8 @@
+[
+  {
+    "name": "promo_consistency_99",
+    "when_screen_contains": "活动",
+    "when_image_contains": "小保养99元",
+    "then_first_page_must_contain": "99元小保养"
+  }
+]
